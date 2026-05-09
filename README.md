@@ -24,7 +24,7 @@ Instead of recalculating values repeatedly for every subarray/substring, we:
 - remove old elements
 
 This reduces time complexity from:
-```text
+
 O(n²) → O(n)
 
 # 📚 Topics Covered
